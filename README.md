@@ -31,4 +31,4 @@
 - [Vigenere Encryption Project](https://github.com/LucasErcolano/Vigenere-Encryption-Project.git)
 
 📧 Contact Information:
-- Email: ercolanolucas@gmail.com
+- Email: lercolano@udesa.edu.ar
