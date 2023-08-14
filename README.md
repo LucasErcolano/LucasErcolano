@@ -1,16 +1,34 @@
-### Hi there 👋
+👤 Hi, I'm Lucas Ercolano 👋
 
-<!--
-**LucasErcolano/LucasErcolano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Fields of Interest: Artificial Intelligence, Web Development, Videogames. 
 
-Here are some ideas to get you started:
+🇦🇷 Argentinean 🧉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 University Student in Artificial Intelligence Engineering
+
+🏆 Certifications:
+- HTML and CSS Diploma (Digital House)
+- Participation Certificate - Ia. Challenge (Universidad de San Andrés)
+- Advanced English (First Cambridge Certificate)
+- Intermediate Italian (Secondary School)
+
+💼 Work Experience:
+- Local Network Installation at Secondary School (2022)
+- Management of Closed Circuit Surveillance at an Accounting Studio (2022)
+- Technology Solutions Manager at Don Gino (Private Company) (2022)
+- Web Development with Responsive Design (2021)
+
+💡 Other Skills:
+- Handling of Technological Equipment
+- Software Development
+
+📞 Reference Contacts:
+- Francisco Fernandez: +54 9 3439 590036 (Technology Manager at Clinica Delta, Campana)
+- Don Gino Repuestos: +5403489 42-7577 (Address: Dr. Salk 220, Campana)
+
+📂 Projects:
+- Optimization Final Project
+- Vigenere Encryption Project
+
+📧 Contact Information:
+- Email: ercolanolucas@gmail.com
