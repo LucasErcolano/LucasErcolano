@@ -28,7 +28,7 @@
 
 📂 Projects:
 - [Optimization Final Project](https://github.com/LucasErcolano/Optimization-Final-Project.git)
-- Vigenere Encryption Project
+- [Vigenere Encryption Project](https://github.com/LucasErcolano/Vigenere-Encryption-Project.git)
 
 📧 Contact Information:
 - Email: ercolanolucas@gmail.com
