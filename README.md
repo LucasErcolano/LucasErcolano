@@ -27,7 +27,7 @@
 - Don Gino Repuestos: +5403489 42-7577 (Address: Dr. Salk 220, Campana)
 
 📂 Projects:
-- Optimization Final Project
+- [Optimization Final Project](https://github.com/LucasErcolano/Optimization-Final-Project.git)
 - Vigenere Encryption Project
 
 📧 Contact Information:
