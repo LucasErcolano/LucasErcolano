@@ -4,7 +4,7 @@
 
 🇦🇷 Argentinean 🧉
 
-🎓 University Student in Artificial Intelligence Engineering [@UDESA] (https://udesa.edu.ar)
+🎓 University Student in Artificial Intelligence Engineering [@UDESA](https://udesa.edu.ar)
 
 🏆 Certifications:
 - HTML and CSS Diploma (Digital House)
