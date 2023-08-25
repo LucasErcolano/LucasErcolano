@@ -32,4 +32,4 @@
 - [CityLink Communications](https://github.com/FedeTrejo/Paradigmas/tree/1ero) 
 
 📧 Contact Information:
-- Email: lercolano@udesa.edu.ar
+- Email: contacto.lucasercolano@gmail.com
