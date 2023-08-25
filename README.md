@@ -23,11 +23,11 @@
 - Software Development
 
 📞 Reference Contacts:
-- Francisco Fernandez: +54 9 3439 590036 (Technology Manager at Clinica Delta, Campana)
-- Don Gino Repuestos: +5403489 42-7577 (Address: Dr. Salk 220, Campana)
+- Francisco Fernandez: +54 93489 496422 (Technology Manager at Clinica Delta, Campana)
+- Don Gino Repuestos: +5403489 427577 (Address: Dr. Salk 220, Campana)
 
 📂 Projects:
-- [Optimization Final Project](https://github.com/LucasErcolano/Optimization-Final-Project.git)
+- [Optimization Final Project](https://github.com/FacuVCanale/TP_Final_PC)
 - [Vigenere Encryption Project](https://github.com/LucasErcolano/Vigenere-Encryption-Project.git)
 
 📧 Contact Information:
