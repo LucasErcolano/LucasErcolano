@@ -28,7 +28,8 @@
 
 📂 Projects:
 - [Optimization Final Project](https://github.com/FacuVCanale/TP_Final_PC)
-- [Vigenere Encryption Project](https://github.com/LucasErcolano/Vigenere-Encryption-Project.git)
+- [Vigenere Encryption](https://github.com/LucasErcolano/Vigenere-Encryption-Project.git)
+- [CityLink Communications](https://github.com/FedeTrejo/Paradigmas/tree/1ero) 
 
 📧 Contact Information:
 - Email: lercolano@udesa.edu.ar
