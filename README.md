@@ -29,7 +29,7 @@
 📂 Projects:
 - [Optimization Final Project](https://github.com/FacuVCanale/TP_Final_PC)
 - [Vigenere Encryption](https://github.com/LucasErcolano/Vigenere-Encryption-Project.git)
-- [CityLink Communications](https://github.com/FedeTrejo/Paradigmas/tree/1ero) 
+- [CityLink Communications](https://github.com/FedeTrejo/Paradigmas/tree/main/Primer_tp) 
 
 📧 Contact Information:
 - Email: contacto.lucasercolano@gmail.com
