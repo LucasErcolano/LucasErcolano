@@ -33,6 +33,7 @@
 - [CityLink Communications](https://github.com/LucasErcolano/ParadigmasDeLaProgramacion/tree/main/Primer_tp)
 - [Optimization Final Project](https://github.com/LucasErcolano/OptimizationFinalProject)
 - [GameJam2023](https://github.com/LucasErcolano/GameJam2023)
+- [Java Project](https://github.com/LucasErcolano/ParadigmasDeLaProgramacion/tree/main/Cuarto_tp)
 - Link'Em: B2B Marketplace connecting entrepreneurs with wholesale suppliers.
 
 📧 Contact Information:
