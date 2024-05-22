@@ -1,35 +1,53 @@
 👤 Hi, I'm Lucas Ercolano 👋
 
-📚 Fields of Interest: Artificial Intelligence, Web Development, Videogames. 
+📚 Fields of Interest: Artificial Intelligence, Web Development, Videogames.
 
 🇦🇷 Argentinean 🧉
 
-🎓 University Student in Artificial Intelligence Engineering [@UDESA](https://udesa.edu.ar)
+🎓 Education:
+- Artificial Intelligence Engineering @ Universidad de San Andrés (2023 - 2028)
+- First Certificate in English (FCE) @ University of Cambridge (2022)
+- Bachelor's Degree in Natural Sciences @ Dante Alighieri Campana (2017 - 2022)
 
 🏆 Certifications:
 - HTML and CSS Diploma (Digital House)
-- Participation Certificate - Ia. Challenge (Universidad de San Andrés)
-- Advanced English (First Cambridge Certificate)
-- Intermediate Italian (Secondary School)
+- Certificate - IA Challenge (Universidad de San Andrés)
+- Itba Game Jam Champion (ITBA Universidad)
+- Hackathon Winning Project (Emprelatam Startup Scholarship, ITBA Computer Society)
+- Argentine Mathematical Olympiad Champion (Olimpíada Matemática Argentina, 2017)
 
 💼 Work Experience:
-- Local Network Installation at Secondary School (2022)
-- Management of Closed Circuit Surveillance at an Accounting Studio (2022)
-- Technology Solutions Manager at Don Gino (Private Company) (2022)
-- Web Development with Responsive Design (2021)
+- University Assistant Professor @ Universidad de San Andrés (Feb 2023 - Present)
+- Software Developer @ Don Gino Repuestos (Jul 2022 - Feb 2023)
+- IT Technician @ Accounting Firm (May 2022 - Jul 2022)
+- IT Technician @ Secondary School (Dec 2021 - Mar 2022)
 
 💡 Other Skills:
+- Node.js
+- MongoDB
+- Mathematics
 - Handling of Technological Equipment
 - Software Development
 
-📞 Reference Contacts:
-- Francisco Fernandez: +54 93489 496422 (Technology Manager at Clinica Delta, Campana)
-- Don Gino Repuestos: +54 03489 427577 (Campana)
-
 📂 Projects:
-- [Optimization Final Project](https://github.com/FacuVCanale/TP_Final_PC)
-- [Vigenere Encryption](https://github.com/LucasErcolano/Vigenere-Encryption-Project.git)
-- [CityLink Communications](https://github.com/FedeTrejo/Paradigmas/tree/main/Primer_tp) 
+- Link'Em: B2B Marketplace connecting entrepreneurs with wholesale suppliers.
+- Optimization Final Project
+- Vigenere Encryption
+- CityLink Communications
 
 📧 Contact Information:
 - Email: contacto.lucasercolano@gmail.com
+- LinkedIn: [Lucas Ercolano](https://www.linkedin.com/in/lucasercolano)
+- GitHub: [Lucas Ercolano](https://github.com/LucasErcolano)
+
+🌐 Languages:
+- English: Full Professional Proficiency
+- Spanish: Native or Bilingual Proficiency
+- Italian: Professional Working Proficiency
+
+💬 Summary:
+Passionate about artificial intelligence and machine learning. I am fascinated by how these technologies are transforming the world, and I dream of being part of that revolution.
+
+I am resourceful, proactive, and I love challenges. That's why I decided to specialize in AI/ML during my university studies. I am looking for an opportunity to apply my knowledge and continue to grow in innovative projects.
+
+Beyond AI, I consider myself a creative person. I like to think outside the box, explore original ideas, and find unique solutions. I also enjoy working in a team, learning from others, and bringing my energy to a diverse group.
