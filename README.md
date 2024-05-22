@@ -22,18 +22,18 @@
 - IT Technician @ Accounting Firm (May 2022 - Jul 2022)
 - IT Technician @ Secondary School (Dec 2021 - Mar 2022)
 
-💡 Other Skills:
-- Node.js
-- MongoDB
-- Mathematics
-- Handling of Technological Equipment
-- Software Development
+💡 Skills:
+- Software Design
+- Project Management
+- Agile Methodologies
+- Python
+- C Programming
 
 📂 Projects:
+- [CityLink Communications](https://github.com/LucasErcolano/ParadigmasDeLaProgramacion/tree/main/Primer_tp)
+- [Optimization Final Project](https://github.com/LucasErcolano/OptimizationFinalProject)
+- [GameJam2023](https://github.com/LucasErcolano/GameJam2023)
 - Link'Em: B2B Marketplace connecting entrepreneurs with wholesale suppliers.
-- Optimization Final Project
-- Vigenere Encryption
-- CityLink Communications
 
 📧 Contact Information:
 - Email: contacto.lucasercolano@gmail.com
